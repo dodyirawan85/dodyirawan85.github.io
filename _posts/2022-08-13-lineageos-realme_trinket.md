@@ -5,7 +5,7 @@ date: 2022-08-13 15:56:00 +0700
 categories: custom rom
 author: 'irawansalt'
 ---
-![TWRP Banner](/assets/images/banner/lineageos.jpeg)
+![LineageOS Banner](/assets/images/banner/lineageos.jpeg)
 
 {% highlight html %}
 /*
