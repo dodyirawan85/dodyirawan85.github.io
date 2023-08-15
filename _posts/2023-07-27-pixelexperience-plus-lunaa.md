@@ -56,6 +56,10 @@ author: 'irawansalt'
 
 [PixelExperience_Plus_lunaa-13.0-20230727-1159-UNOFFICIAL.zip](https://github.com/Irawans-Android-Lab/device_realme_lunaa/releases/download/PE-JUL-23/PixelExperience_Plus_lunaa-13.0-20230727-1159-UNOFFICIAL.zip)
 
+**Updated Release**
+
+[[August] PixelExperience Plus 13 For Realme GT Master Edition](/custom/rom/2023/08/15/pixelexperience-plus-lunaa.html)
+
 **Thanks To**
 
 Pjgowtham, Quallenauge and all realme gt master edition devs
