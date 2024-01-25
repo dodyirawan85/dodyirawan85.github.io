@@ -54,12 +54,12 @@ author: 'irawansalt'
 
 **Screenshots**
 
-![Lock Screen](/assets/images/screenshots/2024/January/26/evox_xun_1.png){: width="540"}{: height="240"}
-![Home Screen](/assets/images/screenshots/2024/January/26/evox_xun_2.png){: width="540"}{: height="240"}
-![Status Bar](/assets/images/screenshots/2024/January/26/evox_xun_3.png){: width="540"}{: height="240"}
-![About Phone](/assets/images/screenshots/2024/January/26/evox_xun_4.png){: width="540"}{: height="240"}
-![Yasnac](/assets/images/screenshots/2024/January/26/evox_xun_5.png){: width="540"}{: height="240"}
-![About Play](/assets/images/screenshots/2024/January/26/evox_xun_6.png){: width="540"}{: height="240"}
+![Lock Screen](/assets/images/screenshots/2024/January/26/evox_xun_1.png){: width="768"}{: height="480"}
+![Home Screen](/assets/images/screenshots/2024/January/26/evox_xun_2.png){: width="768"}{: height="480"}
+![Status Bar](/assets/images/screenshots/2024/January/26/evox_xun_3.png){: width="768"}{: height="480"}
+![About Phone](/assets/images/screenshots/2024/January/26/evox_xun_4.png){: width="768"}{: height="480"}
+![Yasnac](/assets/images/screenshots/2024/January/26/evox_xun_5.png){: width="768"}{: height="480"}
+![About Play](/assets/images/screenshots/2024/January/26/evox_xun_6.png){: width="768"}{: height="480"}
 
 **Download**
 
