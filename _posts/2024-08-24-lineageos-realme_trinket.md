@@ -49,7 +49,7 @@ author: 'irawansalt'
 
 **Download**
 
-lineage-19.1-20220813_073142-UNOFFICIAL-realme_trinket.zip
+lineage-20.0-20240824_132440-UNOFFICIAL-realme_trinket.zip
 
 [Direct Link][direct-link] | [Link with ads to support me][alternate-link]
 
