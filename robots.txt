@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 Allow: /
-Sitemap: https://dodyirawan85.github.io/sitemap.xml
+Sitemap: https://irawansprjkt.my.id/sitemap.xml
